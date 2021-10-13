@@ -1,1 +1,1 @@
-# hike_buddy_backend
+# Hike Buddy Backend
